@@ -1,4 +1,4 @@
 echo "hello world"
 date 
 cal
-echo "test"
+echo "test 2"
